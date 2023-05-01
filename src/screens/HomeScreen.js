@@ -96,7 +96,7 @@ function SideImage() {
 export default function HomeScreen() {
     return (
         <Box>
-            <PageTitle Title={"Home - Alura Cases Campanha"}/>
+            <PageTitle Title={"Home - Alura Cases Campanha"} />
             <Box
                 as="main"
                 styleSheet={{
